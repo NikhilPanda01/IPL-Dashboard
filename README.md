@@ -1,4 +1,5 @@
 # IPL-Dashboard
+![IPL Dashboard](https://github.com/NikhilPanda01/IPL-Dashboard/assets/114555468/b2ebb28f-3b64-4bb1-9e70-c05d551bc631)
 
 
 Indian Premier League Analysis
