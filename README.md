@@ -25,4 +25,7 @@ Key Features of the IPL Dashboard Analysis Project:
 6. Customization and User-Friendliness: The dashboard provides customizable options to suit individual preferences. Users can choose specific data sets, apply filters, and adjust visualizations to focus on areas of interest. The interface is designed to be user-friendly, ensuring that users with minimal technical expertise can easily navigate and utilize the features of the dashboard.
 
 Overall, the IPL Dashboard Analysis project harnesses the capabilities of Microsoft Excel to provide cricket enthusiasts, analysts, and IPL fans with a powerful tool to explore and analyze the vast amount of IPL data. The project enables users to gain valuable insights, make data-driven decisions, and enhance their understanding of team and player performance in the IPL.
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nikhilpanda01.github.io/My_portfolio.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-panda-b78255170/)
 
